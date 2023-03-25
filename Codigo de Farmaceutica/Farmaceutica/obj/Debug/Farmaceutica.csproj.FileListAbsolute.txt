@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Farmaceutica\Farmaceutica\bin\Debug\Farmaceutica.exe.config
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Farmaceutica\Farmaceutica\bin\Debug\Farmaceutica.exe
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Farmaceutica\Farmaceutica\bin\Debug\Farmaceutica.pdb
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.exe
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.pdb
