@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Supermercado\Supermercado\obj\Debug\Supermercado.exe
+C:\Users\Dell\Desktop\Ludwin\Programacion III\Supermercado\Supermercado\obj\Debug\Supermercado.pdb
