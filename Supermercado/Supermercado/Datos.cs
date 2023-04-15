@@ -8,22 +8,23 @@ namespace Supermercado
 {
     internal class Datos
     {
+        // Usuario
         public int id { get; set; }
         public string nombre { get; set; }
-        public int edad { get; set; }
         public string usuario { get; set; }
         public string clave { get; set; }
         public string rol { get; set; }
-        public int nivel { get; set; }
-        public string area { get; set; }
-        public double precio { get; set; }
-        public string categoria { get; set; }
+        public int edad { get; set; }
+
+        //Producto
+        public string nombreP { get; set; }
         public string proveedor { get; set; }
-        public double total { get; set; }
+        public string area { get; set; }
+        public string categoria { get; set; }
         public int cantidad { get; set; }
+        public double precio { get; set; }
         public string fechaCompra { get; set; }
         public string fechaVenc { get; set; }
-        public string descripcion { get; set; }
 
     }
 }

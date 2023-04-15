@@ -11,36 +11,8 @@ namespace Supermercado
     {
         static void Main(string[] args)
         {
-            Datos d = new Datos();
-            Producto p = new Producto();
-
-            WriteLine("***************Bienvenidos**************");
-            WriteLine("Usuario: ");
-            d.usuario = ReadLine();
-
-            WriteLine("Clave");
-            d.clave = ReadLine();
-
-            if(d.usuario == "Ludwin" && d.clave == "l123")
-            {
-                d.rol = "Admin";
-            }
-            else
-            {
-                d.rol = "Vendedor";
-            }
-
-            if(d.rol == "Admin")
-            {
-                p.Areas();
-            }
-            else
-            {
-                ///p.Categorias(" ", " ", " ");
-                WriteLine("intruso");
-                
-            }
-            ReadLine();
+          Code c = new Code();
+            c.Codex();
         }
     }
 }
